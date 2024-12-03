@@ -5,7 +5,7 @@ Apart from my school programming skills, I used Linux in the past and I'm intere
 
 <!-- **Bryx-taffid/Bryx-taffid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently working on projects for School, because I'm a pupil.
-- 🌱 I’m currently learning C# and Python.
+- 🌱 I’m currently learning C#, Python and Rust.
 - 😄 Pronouns: he/him
 
 
