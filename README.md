@@ -5,7 +5,7 @@ Apart from my school programming skills, I used Linux in the past and I'm intere
 
 <!-- **Bryx-taffid/Bryx-taffid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - I’m a pupil, so I'm working on projects for school.
-- I’m currently learning C#, ASP.NET, Android (using Java) and a bit of Docker stuff in school.
+- I’m currently learning C#, ASP.NET Core, Android (using Java) and a bit of Docker stuff in school.
 - I'm interested in Security, Privacy, Linux and Open-Source.
 - Pronouns: he/him
 
